@@ -1,19 +1,20 @@
-# Hi, I'm Ronan Braga 👋
+# Olá, eu sou Ronan Braga 👋
 
-**Network & Security Analyst | Infrastructure | Cloud**
+**Analista de Redes e Segurança da Informação | Infraestrutura | Cloud**
 
-I work with network and security environments, focusing on firewalls, routing, VPNs, troubleshooting, monitoring and cloud infrastructure.
+Atuo com ambientes de redes, segurança e infraestrutura, com experiência em firewalls, roteamento, VPNs, troubleshooting, monitoramento e cloud.
 
-Currently building practical labs and technical documentation to share real-world network and security projects.
+Atualmente curso **Defesa Cibernética na FIAP** e utilizo este GitHub para publicar LABs técnicos, automações, documentação e projetos reproduzíveis voltados principalmente para Redes, Segurança e Infraestrutura.
 
 ---
 
-## 🛡️ Network & Security
+## 🛡️ Redes e Segurança
 
 - Fortinet / FortiGate
-- Palo Alto Networks
+- Palo Alto Networks — **em desenvolvimento**
+- Trend Micro
 - pfSense / MikroTik
-- IPsec VPN / SSL VPN
+- VPN IPsec / SSL VPN
 - SD-WAN
 - BGP / OSPF
 - FSSO
@@ -21,7 +22,7 @@ Currently building practical labs and technical documentation to share real-worl
 - FortiManager / FortiAnalyzer
 - Zabbix / SNMP
 
-## ☁️ Cloud & Infrastructure
+## ☁️ Cloud e Infraestrutura
 
 - Oracle Cloud Infrastructure (OCI)
 - AWS
@@ -33,48 +34,52 @@ Currently building practical labs and technical documentation to share real-worl
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Projeto em destaque
 
 ### [Network Config Backup Automation](https://github.com/ronanbraga13/network-config-backup-automation)
 
-Multi-vendor network configuration backup, versioning and restore lab using **Oxidized, Git and Linux**.
+LAB multi-vendor para automação de backup, versionamento e restauração de configurações de rede utilizando **Oxidized, Git e Linux**.
 
-The project includes:
+O projeto inclui:
 
-- FortiGate, Cisco IOS and pfSense devices
-- Automated configuration collection
-- Git-based version history and diff
-- Oxidized Web UI
-- Backup and restore procedures
-- Troubleshooting documentation
-- PNETLab multi-site topology
-- Reproducible installation and configuration scripts
-
----
-
-## 🎓 Certification
-
-- Oracle Cloud Infrastructure Architect Associate
+- FortiGate, Cisco IOS e pfSense
+- Coleta automatizada de configurações
+- Histórico e comparação de alterações com Git
+- Interface Web do Oxidized
+- Procedimentos de backup e restauração
+- Documentação de troubleshooting
+- Topologia multi-site em PNETLab
+- Scripts reproduzíveis de instalação e configuração
 
 ---
 
-## 📚 Currently improving
+## 🎓 Formação
 
-- Network automation
-- Cybersecurity
-- Fortinet technologies
+- **Defesa Cibernética — FIAP** — em andamento
+
+## 📜 Cursos e certificações
+
+- **Bootcamp Cibersegurança — FIAP**
+- **Bootcamp Arquiteto de Cloud Computing — FIAP**
+- **CCNA: Introduction to Networks — Cisco Networking Academy**
+
+---
+
+## 📚 Em desenvolvimento
+
 - Palo Alto Networks
-- Cloud networking
-- Technical English
+- Automação de redes
+- Cibersegurança
+- Tecnologias Fortinet
+- Cloud Networking
+- Inglês técnico
 
 ---
 
-## 🇧🇷 Sobre mim
+## 👨‍💻 Sobre este GitHub
 
-Analista de Redes e Segurança da Informação com experiência em ambientes de infraestrutura e segurança, atuando com firewalls, VPNs, roteamento dinâmico, troubleshooting, monitoramento e cloud.
+Meu objetivo é documentar projetos práticos que demonstrem implementação, operação e troubleshooting em ambientes de Redes e Segurança.
 
-Meu objetivo aqui no GitHub é publicar **LABs técnicos, automações, documentação e projetos reproduzíveis** voltados principalmente para Redes, Segurança e Infraestrutura.
+Aqui você encontrará LABs, documentação técnica, automações e exemplos construídos a partir de cenários reais de infraestrutura e segurança.
 
----
-
-> Building, documenting and troubleshooting networks — one lab at a time.
+> Construindo, documentando e solucionando problemas de redes — um LAB de cada vez.
