@@ -59,8 +59,8 @@ O projeto inclui:
 
 ## 📜 Cursos e certificações
 
-- **Bootcamp Cibersegurança — FIAP**
-- **Bootcamp Arquiteto de Cloud Computing — FIAP**
+- **Certified Cybersecurity Professional — FIAP**
+- **Certified Information Security Manager — FIAP**
 - **CCNA: Introduction to Networks — Cisco Networking Academy**
 
 ---
